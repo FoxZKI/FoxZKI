@@ -84,8 +84,8 @@ Hi, I'm Thiago Altamiranda!
 <br/>
 <p align="center">
 	<a href="https://github.com/FoxZKI">
-	<img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=bouaskaoun&show_icons=true" alt="bouaskaoun">
-	<img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=bouaskaoun" alt="bouaskaoun">
+	<img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=FoxZKI&show_icons=true" alt="FoxZKI">
+	<img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=FoxZKI" alt="FoxZKI">
 	</a>
 	<br/>
 </p>
